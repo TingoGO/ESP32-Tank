@@ -17,7 +17,9 @@ My completion time depends on the feedback from this project and whether I have 
 
 # Future revision
 Rev1_2: In this version, I will change the location of the ESP32-CAM from the side of the barrel to the front body of the tank. This adjustment means that when moving forward in the app, the streaming view from the ESP32-CAM will also move forward. Consequently, when rotating the barrel, only the crosshair will move instead of the entire scene.
+
 Rev1_3: Change the cross-section of the barrel from rectangular to inverted triangular, so the barrel should better accommodate different sizes of steel BBs and improve accuracy. The original rectangular design often caused deviations in bullet trajectories. Changing to an inverted triangular shape should help stabilize the bullets along the grooves under the influence of gravity.
+
 Rev1_4: Add depth sensor like "VL53L5CX" on the barrel, so you can see how far the target from the tank in th APP. But this might make this project too hard for most people.
 .
 .
