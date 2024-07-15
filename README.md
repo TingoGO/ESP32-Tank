@@ -28,7 +28,7 @@ Rev1_4: Add depth sensor like "VL53L5CX" on the barrel, so you can see how far t
 
 .
 
-rev10_1:  Gattling tank, needless to say.
+Rev10_1:  Gattling tank, needless to say.
 
 #License
 CC BY-NC-SA 4.0
