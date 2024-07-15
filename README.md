@@ -9,7 +9,7 @@ In the current version, due to the lack of consideration for model compatibility
 2. Steel BBs with a diameter of 5.5 to 6 mm
 3. Wooden boards with a thickness close to 1/2 the diameter of the steel BBs for laser cutting
    
-And it will take a long time for the tank to function properly.
+And it will take a long time for adjusting tank to function properly. Also the code part is still chaos, it will be impossible to be modified.
 
 # Timeline for this project
 1. Make sure rev1_1 work properly.
