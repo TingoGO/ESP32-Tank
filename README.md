@@ -35,3 +35,9 @@ Rev10_1:  Gattling tank, needless to say.
 # License
 CC BY-NC-SA 4.0
 
+# Attribution, Acknowledgement
+1. SG90 model: https://grabcad.com/library/servomotor-sg90-1
+2. 28byj-48 model: https://grabcad.com/library/28byj-48-stepper-motor-7
+3. DC motor model: https://grabcad.com/library/dc-motor-sari-1
+4. ESP32-cam model: https://grabcad.com/library/esp32-cam-1/details?folder_id=6305310
+
