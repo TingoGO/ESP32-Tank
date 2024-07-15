@@ -1,5 +1,6 @@
 # ESP32-Tank
 A tank made using laser cutting, ESP32 and APP Inventor
+https://youtu.be/GkZCpofhbtY
 
 # Current status
 Currently, I do not recommend anyone without relevant experience to try this project, unless you have a deep passion for tanks. The current version of the tank is rev1_1. I haven't tested it yet (the model part), and I'm not sure if I will have the time to test it.
