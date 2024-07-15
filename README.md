@@ -8,6 +8,7 @@ In the current version, due to the lack of consideration for model compatibility
 1. Toothpicks with a diameter of less than 1.45 mm
 2. Steel BBs with a diameter of 5.5 to 6 mm
 3. Wooden boards with a thickness close to 1/2 the diameter of the steel BBs for laser cutting
+   
 And it will take a long time for the tank to function properly.
 
 # Timeline for this project
